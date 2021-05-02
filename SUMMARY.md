@@ -19,6 +19,8 @@
 
 ---
 
+* [Creating Smart Contracts](creating-smart-contracts.md)
+* [Compiling Smart Contracts](compiling-smart-contracts.md)
 * [Uploading Smart Contracts](uploading-smart-contracts.md)
 
 ## FAQs
