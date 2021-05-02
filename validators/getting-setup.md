@@ -4,19 +4,18 @@ description: 'Join us, we don''t have cookies!'
 
 # Getting Setup
 
-Welcome To The _Wild West_ 
+Welcome To The _Wild West_
 
 So you want to get your hands dirty and become a validator?
 
 The best way for you to learn the tools of the trade, is to start with one of Junos testnets. Here you will most likely run into issues and learn how to overcome them so that you can prepare yourself for real world dangers and bugs. Now is the time to battle harden your validator!
 
 {% hint style="info" %}
-Testnets come and go, so to find out which is the latest, please go to our discord validator-lounge channel: [Discord-Validator-Lounge](https://discord.gg/QcWPfK4gJ2
-)
+Testnets come and go, so to find out which is the latest, please go to our discord validator-lounge channel: [Discord-Validator-Lounge](https://discord.gg/QcWPfK4gJ2%20)
 {% endhint %}
 
 {% hint style="danger" %}
-#### Minimum hardware requirements 🖥 
+## Minimum hardware requirements 🖥
 
 * 2GB RAM
 * 25GB of disk space

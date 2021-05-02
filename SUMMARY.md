@@ -17,19 +17,15 @@
 
 ## Smart Contracts
 
----
-
-* [Creating Smart Contracts](creating-smart-contracts.md)
-* [Compiling Smart Contracts](compiling-smart-contracts.md)
-* [Uploading Smart Contracts](uploading-smart-contracts.md)
+* [Creating Smart Contracts](smart-contracts/creating-smart-contracts.md)
+* [Compiling Smart Contracts](smart-contracts/compiling-smart-contracts.md)
+* [Uploading Smart Contracts](smart-contracts/uploading-smart-contracts.md)
 
 ## FAQs
 
----
-
-* [Validator FAQ](validator-faq.md)
-* [Developer FAQ](developer-faq.md)
-* [Investor FAQ](investor-faq.md)
+* [Validator FAQ](faqs/validator-faq.md)
+* [Developer FAQ](faqs/developer-faq.md)
+* [Delegator FAQ](faqs/delegator-faq.md)
 
 ## Miscellaneous
 

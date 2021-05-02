@@ -4,11 +4,9 @@ description: Join the Community
 
 # Community Channels
 
-## [Twitter](https://twitter.com/JunoNetwork)\*\*\*\*🐦 
+## [Twitter](https://twitter.com/JunoNetwork) 🐦
 
-## [Discord](https://discord.gg/QcWPfK4gJ2)💬 
+## [Discord](https://discord.gg/QcWPfK4gJ2) 💬
 
-## [Github](https://github.com/CosmosContracts)👨💻 
-
-
+## [Github](https://github.com/CosmosContracts) 💻
 

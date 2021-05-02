@@ -5,7 +5,7 @@ description: Time to Connect!
 # Joining The Testnets
 
 {% hint style="info" %}
-**IMPORTANT: Be sure to run the following on the machine you'll use for the testnet.** 🙇 
+**IMPORTANT: Be sure to run the following on the machine you'll use for the testnet.** 🙇
 {% endhint %}
 
 ## **Joining as a Validator**
@@ -75,6 +75,4 @@ Check logs:
 ```text
 journalctl -u junod -f
 ```
-
-
 

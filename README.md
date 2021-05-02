@@ -20,11 +20,11 @@ Welcome to the documentation and user guides for [Juno](https://junochain.com), 
 
 ### Smart Contracts
 
-{% page-ref page="creating-smart-contracts.md" %}
+{% page-ref page="smart-contracts/creating-smart-contracts.md" %}
 
-{% page-ref page="compiling-smart-contracts.md" %}
+{% page-ref page="smart-contracts/compiling-smart-contracts.md" %}
 
-{% page-ref page="uploading-smart-contracts.md" %}
+{% page-ref page="smart-contracts/uploading-smart-contracts.md" %}
 {% endtab %}
 
 {% tab title="Community" %}
@@ -32,11 +32,11 @@ Welcome to the documentation and user guides for [Juno](https://junochain.com), 
 {% endtab %}
 
 {% tab title="FAQs" %}
-{% page-ref page="validator-faq.md" %}
+{% page-ref page="faqs/validator-faq.md" %}
 
-{% page-ref page="developer-faq.md" %}
+{% page-ref page="faqs/developer-faq.md" %}
 
-{% page-ref page="investor-faq.md" %}
+{% page-ref page="faqs/delegator-faq.md" %}
 {% endtab %}
 {% endtabs %}
 

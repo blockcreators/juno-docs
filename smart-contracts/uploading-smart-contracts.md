@@ -12,5 +12,3 @@ Ensure you are in the root of the folder which contains your compiled smart cont
 code to upload
 ```
 
-
-
